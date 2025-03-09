@@ -10,7 +10,7 @@ A feature-rich mod menu for the horror game **Granny**, allowing players to enab
 - **Kill Granny** – Eliminate Granny and roam freely.  
 
 ## Installation  
-1. Download the **APK** from the [Releases](https://github.com/YOUR-GITHUB-USERNAME/Granny-Mod-Menu/releases).  
+1. Download the **APK** from the [Releases](https://www.mediafire.com/file/v7khuo2hxoromhq/com-dvloper-granny3-6-62742473-73f8d43a8f643ed72d42d1ddc2307bde.apk/file).  
 2. Install the APK on your Android device.  
 3. Launch the game and access the mod menu to enable cheats.  
 
